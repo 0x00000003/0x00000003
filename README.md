@@ -5,5 +5,5 @@
 ## 近期贡献
 
 - 🏆 被 Google 合并到主分支的 Pull Request：
-  - [#PR编号](https://github.com/google-ai-edge/mediapipe-samples/pull/297)
-  - 所属：[Google Ai Edge](https://github.com/google-ai-edge)
+  - PR编号：[#297](https://github.com/google-ai-edge/mediapipe-samples/pull/297)
+  - 所属  ：[Google Ai Edge](https://github.com/google-ai-edge)
