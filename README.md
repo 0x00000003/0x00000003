@@ -49,6 +49,7 @@
 
 | | Project | Description |
 |:---:|:---|:---|
+| 🎬 | [**Remotion Word Highlight Subtitles**](https://github.com/0x00000003/remotion-word-highlight-subtitles) | ClawHub Skill for Whisper Word Timestamps & Remotion Current-Word Highlight Subtitles |
 | 📷 | [**AIPromptCam**](https://github.com/0x00000003/AIPromptCam) | iOS Smart Teleprompter with Speech Recognition Auto-Tracking |
 | 🎨 | [**Douyin Cover Builder**](https://github.com/0x00000003/douyin-cover-builder) | OpenClaw Douyin Skill for AI-Powered Cover Generation |
 | [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/google-ai-edge) | [**Google AI Edge / MediaPipe Samples**](https://github.com/google-ai-edge/mediapipe-samples/pull/297) | [![PR #297](https://img.shields.io/badge/PR_%23297-Merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/google-ai-edge/mediapipe-samples/pull/297) Code Contribution → Merged ✅ |
@@ -56,5 +57,4 @@
 | 📈 | [**Binance Futures Hedging System**](https://github.com/0x00000003/binance_futures_hedging_system) | High-Frequency Crypto Hedging & Auto Margin-Call System |
 
 </div>
-
 
