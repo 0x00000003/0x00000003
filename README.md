@@ -49,6 +49,7 @@
 
 | | Project | Description |
 |:---:|:---|:---|
+| 🧩 | [**Frida Android 14 ARM32 Patch**](https://github.com/0x00000003/frida-android14-arm32-patch) | Frida 17 patch template for Java Bridge on Android 14 ARM32 devices |
 | 📺 | [**TCL-75T7G-Root**](https://github.com/0x00000003/TCL-75T7G-Root) | TCL 75T7G TV Root Process Analysis — MStar Firmware RE & System-only Patch |
 | 🎬 | [**Remotion Word Highlight Subtitles**](https://github.com/0x00000003/remotion-word-highlight-subtitles) | ClawHub Skill for Whisper Word Timestamps & Remotion Current-Word Highlight Subtitles |
 | 📷 | [**AIPromptCam**](https://github.com/0x00000003/AIPromptCam) | iOS Smart Teleprompter with Speech Recognition Auto-Tracking |
