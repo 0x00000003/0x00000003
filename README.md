@@ -47,16 +47,16 @@
 
 <div align="center">
 
-| | Project | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 |:---:|:---|:---|
-| 🧩 | [**Frida Android 14 ARM32 Patch**](https://github.com/0x00000003/frida-android14-arm32-patch) | Frida 17 patch template for Java Bridge on Android 14 ARM32 devices |
-| 📺 | [**TCL-75T7G-Root**](https://github.com/0x00000003/TCL-75T7G-Root) | TCL 75T7G TV Root Process Analysis — MStar Firmware RE & System-only Patch |
-| 🎬 | [**Remotion Word Highlight Subtitles**](https://github.com/0x00000003/remotion-word-highlight-subtitles) | ClawHub Skill for Whisper Word Timestamps & Remotion Current-Word Highlight Subtitles |
-| 📷 | [**AIPromptCam**](https://github.com/0x00000003/AIPromptCam) | iOS Smart Teleprompter with Speech Recognition Auto-Tracking |
-| 🎨 | [**Douyin Cover Builder**](https://github.com/0x00000003/douyin-cover-builder) | OpenClaw Douyin Skill for AI-Powered Cover Generation |
-| [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/google-ai-edge) | [**Google AI Edge / MediaPipe Samples**](https://github.com/google-ai-edge/mediapipe-samples/pull/297) | [![PR #297](https://img.shields.io/badge/PR_%23297-Merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/google-ai-edge/mediapipe-samples/pull/297) Code Contribution → Merged ✅ |
-| 🔐 | [**AndroidReverseAndSecurity**](https://github.com/0x00000003/AndroidReverseAndSecurity) | Android Reverse Engineering & WeChat Source Analysis |
-| 📈 | [**Binance Futures Hedging System**](https://github.com/0x00000003/binance_futures_hedging_system) | High-Frequency Crypto Hedging & Auto Margin-Call System |
+| [![Apple](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/0x00000003/MacVolumeGuard) | [**MacVolumeGuard**](https://github.com/0x00000003/MacVolumeGuard) | **VolumeGuard** — Open-source native macOS menu bar volume limiter with preemptive media-key interception, Core Audio fallback, and English / 中文 / 日本語 support |
+| <a href="https://github.com/frida"><img src="https://github.com/frida.png" width="48" style="border-radius: 6px;"></a> | [**Frida**](https://github.com/frida/frida-java-bridge/pull/396) | [![PR #396](https://img.shields.io/badge/PR_%23396-Merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/frida/frida-java-bridge/pull/396) Code Contribution → Merged ✅ <br> Frida 17 patch template for Java Bridge on Android 14 ARM32 devices |
+| [![TCL](https://img.shields.io/badge/TCL-005BAC?style=flat-square&logoColor=white)](https://github.com/0x00000003/TCL-75T7G-Root) | [**TCL-75T7G-Root**](https://github.com/0x00000003/TCL-75T7G-Root) | TCL 75T7G TV Root Process Analysis — MStar Firmware RE & System-only Patch |
+| [![Ai Skill](https://img.shields.io/badge/Ai-Skill-FF4500?style=flat-square&labelColor=333333)](https://github.com/0x00000003/remotion-word-highlight-subtitles) | **Remotion Word Highlight Subtitles** <br> ([github](https://github.com/0x00000003/remotion-word-highlight-subtitles)) ([clawHub](https://clawhub.ai/0x00000003/remotion-word-highlight-subtitles)) | Agent(Codex/Claude/OpenClaw/Hermes) Skill for Whisper Word Timestamps & Remotion Current-Word Highlight Subtitles |
+| [![Apple](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/0x00000003/AIPromptCam) | [**AIPromptCam**](https://github.com/0x00000003/AIPromptCam) | iOS Smart Teleprompter with Speech Recognition Auto-Tracking |
+| [![Ai Skill](https://img.shields.io/badge/Ai-Skill-FF4500?style=flat-square&labelColor=333333)](https://github.com/0x00000003/douyin-cover-builder) | **Douyin Cover Builder** <br> ([github](https://github.com/0x00000003/douyin-cover-builder)) ([clawHub](https://clawhub.ai/0x00000003/douyin-cover-builder)) | 🔥 **6K+ Downloads** <br> Agent(Codex/Claude/OpenClaw/Hermes) Douyin Skill for AI-Powered Cover Generation |
+| [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/google-ai-edge) | [**Google AI Edge**](https://github.com/google-ai-edge/mediapipe-samples/pull/297) | [![PR #297](https://img.shields.io/badge/PR_%23297-Merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/google-ai-edge/mediapipe-samples/pull/297) Code Contribution → Merged ✅ |
+| [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/0x00000003/AndroidReverseAndSecurity) | [**AndroidReverseAndSecurity**](https://github.com/0x00000003/AndroidReverseAndSecurity) | Android Reverse Engineering & WeChat Source Analysis |
+| [![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=black)](https://github.com/0x00000003/binance_futures_hedging_system) | [**Binance Futures Hedging System**](https://github.com/0x00000003/binance_futures_hedging_system) | High-Frequency Crypto Hedging & Auto Margin-Call System |
 
 </div>
-
