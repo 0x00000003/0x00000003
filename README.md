@@ -3,7 +3,7 @@
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=0x00000003+%7C+%E5%90%B4%E7%9B%B8%E5%85%B4;Reverse+Engineer+%26+Security+Researcher" alt="Typing SVG" /></a>
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0x00000003&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true" width="95%"/>
+<img src="github-activity-graph.svg" width="95%" alt="Activity Graph"/>
 
 </div>
 
