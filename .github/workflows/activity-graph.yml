@@ -20,8 +20,8 @@ jobs:
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: 0x00000003
-          options: bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true
+          username: "0x00000003"
+          options: theme=github-compact&hide_border=true
           output_path: github-activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
